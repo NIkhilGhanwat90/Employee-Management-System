@@ -1,9 +1,5 @@
 # Employee-Management-System_MVC-JDBC ❤️
 
-![](https://img.shields.io/github/languages/count/gowthamrajk/Employee-Management-System_MVC-JDBC)   ![](https://img.shields.io/github/languages/top/gowthamrajk/Employee-Management-System_MVC-JDBC)
-
-### For more such developments, visit my [Portfolio](https://gowthamrajk.github.io)
-
 - This modules is an example of a Console based Employee Management System using MVC Design Pattern & JDBC + MySQL. It gives a practical demo explanation as how to connect our java application with the database using JDBC and proper MVC layered architecture as model, repository, service layers.
 
 # About Project Development 🥅
@@ -37,16 +33,6 @@
 
 </div>
 
-<br>
-
-## Project Developed & Maintained By 🔭
-
-# ![](https://img.shields.io/static/v1?style=for-the-badge&message=Gowthamraj+K&color=007396&label=) 😄
-
-![](https://img.shields.io/static/v1?style=for-the-badge&message=Fullstack+Web+Developer&color=0b3d36&label=)  ![](https://img.shields.io/static/v1?style=for-the-badge&message=UI+Designer&color=d92323&label=) ![](https://img.shields.io/static/v1?style=for-the-badge&message=Learning+new+things&color=0c0c4f&label=)  ![](https://img.shields.io/static/v1?style=for-the-badge&message=Design+Thinker&color=0b3d17&label=) 
-
-<br>
-
 ### Connect with me 👋:
 
 [<img align="left" alt="code-Jamm.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website1]
@@ -58,14 +44,5 @@
 
 <br>
 
-## Copyright-and-license 📌
 
-**Code and documentation Copyright 2021 : Gowthamraj K**
 
-[website1]: https://sites.google.com/view/code-jamm
-[hackerrank]: https://www.hackerrank.com/gowthamraj692
-[website]: https://github.com/gowthamrajk
-[twitter]: https://twitter.com/Gowtham29341737
-[youtube]: https://www.youtube.com/channel/UC_Q5Zet9Oz-UVAeJ-oE_uGQ?view_as=subscriber
-[instagram]: https://instagram.com/gow_t_h_a_m_r_a_j
-[linkedin]: https://www.linkedin.com/in/gowtham-kittusamy-54b835174/
